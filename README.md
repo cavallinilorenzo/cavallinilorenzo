@@ -30,7 +30,7 @@
 
 ## 📂 Past Projects
 
-- **[Lombardy Open Data Explorer](https://github.com/tuo-username/link-alla-tua-repo-sagre)**
+- **[Lombardy Open Data Explorer](https://github.com/cavallinilorenzo/SagreLombardia)**
   *Geospatial web application that aggregates and visualizes real-time cultural events using the Lombardy Region Open Data API.*
   *Stack: PHP, MySQL, JavaScript (Leaflet Maps), Open Data.*
 
