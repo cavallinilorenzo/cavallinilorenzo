@@ -30,6 +30,14 @@
 
 ## 📂 Past Projects
 
+- **[Dossi SRL - Corporate Website](https://www.dossisrl.it/)**
+  *Custom B2B web presence built from scratch to translate client business requirements into a responsive digital showcase.*
+  *Stack: HTML5, CSS3, Vanilla JavaScript.*
+
+- **[Hydrobau SRL - Corporate Website](https://www.hydrobau.it/)**
+  *Professional company portfolio developed with a focus on web performance, cross-browser compatibility, and UI/UX best practices.*
+  *Stack: HTML5, CSS3, Vanilla JavaScript.*
+
 - **[Lombardy Open Data Explorer](https://github.com/cavallinilorenzo/SagreLombardia)**
   *Geospatial web application that aggregates and visualizes real-time cultural events using the Lombardy Region Open Data API.*
   *Stack: PHP, MySQL, JavaScript (Leaflet Maps), Open Data.*
