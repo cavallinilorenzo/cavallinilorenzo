@@ -30,6 +30,10 @@
 
 ## 📂 Past Projects
 
+- **[Smart Beam: Predictive Maintenance for Public Lighting](https://github.com/cavallinilorenzo/street-lighting-predictive-maintenance)**
+  *Developed for Hackathon SCIoTeM 2026. A smart city web platform leveraging Machine Learning (Survival Analysis) to shift public lighting maintenance from reactive to proactive. Features include an interactive GIS map, statistical dashboards, automated PDF reporting, a ticketing system, and Explainable AI (XAI) to justify risk levels based on hardware specs and thermal stress.*
+  *Stack: Python, Django, SQLite, Scikit-learn, XGBoost, Pandas, Bootstrap 5, Chart.js, Folium/Leaflet.*
+
 - **[Dossi SRL - Corporate Website](https://www.dossisrl.it/)**
   *Custom B2B web presence built from scratch to translate client business requirements into a responsive digital showcase.*
   *Stack: HTML5, CSS3, Vanilla JavaScript.*
