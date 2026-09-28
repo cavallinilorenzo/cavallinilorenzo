@@ -43,7 +43,8 @@ I take products from the first conversation with the user to production: backend
 - 🎙️ **[AlwaysClaudeCode](https://github.com/cavallinilorenzo/always-claude-code)**: menu-bar HUD that hosts a real Claude Code session in a **Unix PTY**, with local **whisper.cpp** voice input. My first open-source release (MIT).
 - 🏋️ **[Overload](https://apps.apple.com/us/app/overload-gym-log/id6786719670)**: iOS workout tracker with load progression, charts, an ~800-exercise library and HealthKit integration. Swift + Supabase, with a fully local mode.
 - 📈 **[Progressive](https://github.com/cavallinilorenzo/progressive-unimore-project)**: a progressive-overload coach for the web. It reads what you lifted and tells you what to change next session. University project in Django.
-- ⌚ **Homemade Whoop**: personal dashboard that computes recovery, sleep and strain from a €40 Mi Band 10 and my Overload data.
+- 🍳 **[GNAM!](https://apps.apple.com/us/app/gnam-svuota-frigo-spesa/id6763529388)**: my first startup, an AI kitchen assistant that suggests recipes from what's in your fridge and tracks expiry dates and family shopping lists. Went from idea to the App Store in 3 months, then I shut it down and wrote up what I learned.
+- ⌚ **[Homemade Whoop](https://www.linkedin.com/posts/cavallini-lorenzo_buildinpublic-ai-quantifiedself-share-7498786751457464321-dTPm/)**: personal dashboard that computes recovery, sleep and strain from a €40 Mi Band 10 and my Overload data. [The LinkedIn post](https://www.linkedin.com/posts/cavallini-lorenzo_buildinpublic-ai-quantifiedself-share-7498786751457464321-dTPm/) got 40k+ views.
 
 ### 💼 Client Work
 
@@ -61,7 +62,7 @@ I take products from the first conversation with the user to production: backend
 ## Connect
 
 [![Website](https://img.shields.io/badge/-cavallinilorenzo.com-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.cavallinilorenzo.com/)
-[![LinkedIn](https://img.shields.io/badge/-Lorenzo_Cavallini-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavallini-lorenzo)
+[![LinkedIn](https://img.shields.io/badge/-Lorenzo_Cavallini-0077B5?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/cavallini-lorenzo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cavallinilorenzo05@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cavallinilorenzo)
 
