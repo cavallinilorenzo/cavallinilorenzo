@@ -50,6 +50,11 @@ I take products from the first conversation with the user to production: backend
 
 - ⚙️ **Business automations**: custom tools for a loan broker and for [Mantova Soon](https://www.mantovasoon.it/), replacing hours of manual work every week (11 projects delivered)
 - 🌐 **[Dossi SRL](https://www.dossisrl.it/)** · **[Hydrobau SRL](https://www.hydrobau.it/)**: company websites built from scratch, from requirements to deployment
+
+## 🎓 University Project
+- 🌿 **[STM32 Smart Garden](https://github.com/itsmrma/STM32CentralinaGettiniWiFI)**: C firmware for an IoT smart irrigation system based on the STM32 B-L475E-IOT01A. Features a built-in web server for configuration, fetches Open-Meteo forecasts to save water if rain is expected, and pilots electro-valves via relays.<br>**Stack:** `C` · `Assembly` · `HTML` · `CSS`
+
+## 🏫 High School Project
 - 🗺️ **[Sagre Lombardia](https://github.com/cavallinilorenzo/sagre-lombardia)**: geospatial explorer for Lombardy's cultural events, built on the Region's Open Data API
 
 ## What I'm Doing
