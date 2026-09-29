@@ -1,6 +1,6 @@
 # Hi, I'm Lorenzo 👋
 
-📍 **Mantova, Italy** | 🛠️ **Full-cycle builder** | 🥇 **2× hackathon winner**
+📍 **Italy** | 🛠️ **Full-cycle builder** | 🥇 **2× hackathon winner**
 
 Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/) (graduating 2027).
 I take products from the first conversation with the user to production: backend, frontend, mobile, deploy.
@@ -8,13 +8,9 @@ I take products from the first conversation with the user to production: backend
 > 🔎 **Open to software engineering internships.** [Get in touch](mailto:cavallinilorenzo05@gmail.com)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
