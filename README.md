@@ -7,11 +7,6 @@ I take products from the first conversation with the user to production: backend
 
 > 🔎 **Open to software engineering internships.** [Get in touch](mailto:cavallinilorenzo05@gmail.com)
 
-## Favourite Stack
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
 ## Start Here
 
 - 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)** (🥇 Hack4Water 2026): geolocated reporting platform for a public water consortium
@@ -80,11 +75,7 @@ I take products from the first conversation with the user to production: backend
 
 > "If I need a tool, I build it." I start from a real problem, ship the smallest thing that solves it, then iterate with the people who use it.
 
-<details>
-<summary>Random Facts</summary>
-
-- Gym regular: I built the app I use to track my lifts
-- Play the piano
-- Talk to my terminal more than I type into it
-
-</details>
+## Favourite Stack
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
