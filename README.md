@@ -67,8 +67,8 @@ I take products from the first conversation with the user to production: backend
 
 - 🥇 **1st place**, ACQUAM 2026 · Hack4Water Alert (Sep 2026), with [Matteo Benassi](https://github.com/itsmrma) and [Simone Trentin](https://github.com/TrentoElProgrammatores)
 - 🥇 **1st place**, ItaliansCodeItBetter hackathon, Milan (2026), with [Simone Mattioli](https://github.com/simo-hue)
-- 🥈 **2nd place**, Hackathon SCIoTeM 2026
-- 🥈 **2nd place**, [SCIoTeM 2025](https://ltomantova.it/2025/02/25/sciotem-2025-smart-city-and-mobility-internet-of-things-digital-twins-and-metaverso/) · Smart City & Mobility, IoT, Digital Twins (Feb 2025): P7M AI Summarizer
+- 🥈 **2nd place**, Hackathon SCIoTeM 2026 with [Matteo Benassi](https://github.com/itsmrma) and [Simone Trentin](https://github.com/TrentoElProgrammatores)
+- 🥈 **2nd place**, [SCIoTeM 2025](https://ltomantova.it/2025/02/25/sciotem-2025-smart-city-and-mobility-internet-of-things-digital-twins-and-metaverso/) · Smart City & Mobility, IoT, Digital Twins (Feb 2025): P7M AI Summarizer with [Matteo Benassi](https://github.com/itsmrma) and [Simone Trentin](https://github.com/TrentoElProgrammatores)
 - 🎓 All first- and second-year exams passed on schedule · 94/100 technical high school diploma (computer science)
 
 ### Philosophy
