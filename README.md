@@ -51,6 +51,7 @@ I take products from the first conversation with the user to production: backend
 - 🌿 **[STM32 Smart Garden](https://github.com/itsmrma/STM32CentralinaGettiniWiFI)**: C firmware for an IoT smart irrigation system based on the STM32 B-L475E-IOT01A. Features a built-in web server for configuration, fetches Open-Meteo forecasts to save water if rain is expected, and pilots electro-valves via relays.<br>**Stack:** `C` · `Assembly` · `HTML` · `CSS`
 
 ## 🏫 High School Project
+- 🎮 **[Itis Adventure](https://github.com/cavallinilorenzo/itis-adventure)**: summer holiday assignment for the Computer Science course, 4th year class.
 - 🗺️ **[Sagre Lombardia](https://github.com/cavallinilorenzo/sagre-lombardia)**: geospatial explorer for Lombardy's cultural events, built on the Region's Open Data API
 
 ## What I'm Doing
