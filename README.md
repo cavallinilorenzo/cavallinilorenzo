@@ -1,6 +1,6 @@
 # Hi, I'm Lorenzo 👋
 
-📍 **Italy** | 🛠️ **Full-cycle builder** | 🥇 **2× hackathon winner**
+📍 **Italy** | 🛠️ **Full-cycle builder** | 🥇 **2× hackathon winner** | **[CV](https://github.com/cavallinilorenzo/cv)**
 
 Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/) (graduating 2027).
 I take products from the first conversation with the user to production: backend, frontend, mobile, deploy.
